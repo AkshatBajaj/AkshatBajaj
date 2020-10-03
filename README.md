@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+### About me
+
+- Software Engineer based in Melbourne, Australia currently working full time at [A2I2](https://github.com/a2i2)
+- Studied Master's of Information Technology from Deakin University
+
 
 <!--
 **AkshatBajaj/AkshatBajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

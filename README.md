@@ -16,6 +16,14 @@ Hi there 👋, I am Akshat 👨‍💻
   <a href="mailto:akshat.bajaj@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
 </p>
 
+<h2 align='center'>
+🚀 Stats
+</h2>
+
+<p align='center'>
+  <a href="https://github.com/AkshatBajaj"><img src="https://github-readme-stats.vercel.app/api?username=AkshatBajaj&count_private=true&show_icons=true&theme=merko&hide=stars" width="350"></a>
+</p>
+
 <!--
 **AkshatBajaj/AkshatBajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

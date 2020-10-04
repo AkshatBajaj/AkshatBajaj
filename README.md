@@ -1,14 +1,14 @@
 <h1 align='center'>
-Hi there 👋, I am Akshat 👨‍💻
+    Hi there 👋, I am Akshat 👨‍💻
 </h1>
 
-### About me
-
-- Software Engineer based in Melbourne, Australia currently working full time at [A2I2](https://github.com/a2i2)
-- Studied Master's of Information Technology from Deakin University
+<div align="center">
+    Software Engineer based in Melbourne, Australia
+</div>
+<br/>
 
 <h2 align='center'>
-🤝🏻 Connect with Me
+    🤝🏻 Connect with Me
 </h2>
 
 <p align="center">
@@ -17,12 +17,17 @@ Hi there 👋, I am Akshat 👨‍💻
 </p>
 
 <h2 align='center'>
-🚀 Stats
+    🔥 Stats
 </h2>
 
-<p align='center'>
-  <a href="https://github.com/AkshatBajaj"><img src="https://github-readme-stats.vercel.app/api?username=AkshatBajaj&count_private=true&show_icons=true&theme=merko&hide=stars" width="350"></a>
-</p>
+<div align='center'>
+  <a href="https://github.com/AkshatBajaj"><img src="https://github-readme-stats.vercel.app/api?username=AkshatBajaj&count_private=true&show_icons=true&theme=merko&hide=stars" width="350"></a>&nbsp;&nbsp;
+  <div>
+    <a href="https://github.com/AkshatBajaj"><img src="https://badges.pufler.dev/years/AkshatBajaj"></a>
+    <a href="https://github.com/AkshatBajaj"><img src="https://badges.pufler.dev/repos/AkshatBajaj"></a>
+    <a href="https://github.com/AkshatBajaj"><img src="https://badges.pufler.dev/gists/AkshatBajaj"></a>
+  </div>
+</div>
 
 <!--
 **AkshatBajaj/AkshatBajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
